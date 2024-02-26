@@ -1,2 +1,2 @@
 # AWS_cli-scripts
-Practice using AWS CLI
+Description: Scripts created to perform different functions using the AWS CLI 
